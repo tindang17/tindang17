@@ -9,3 +9,5 @@ As a curious and analytical person, I have a passion for discovering correlation
 * Python: Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup
 * R: tidyverse, ggplot
 * Spreadsheet: VLOOKUP, Pivot Table, XLOOKUP
+
+Please follow this link[https://github.com/tindang17?tab=repositories] for more projects
