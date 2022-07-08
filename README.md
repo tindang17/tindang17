@@ -10,4 +10,4 @@ As a curious and analytical person, I have a passion for discovering correlation
 * R: tidyverse, ggplot
 * Spreadsheet: VLOOKUP, Pivot Table, XLOOKUP
 
-Please follow this [link https://github.com/tindang17?tab=repositories] for more projects
+Please follow this [link](https://github.com/tindang17?tab=repositories) for more projects
